@@ -7,9 +7,8 @@ Original file is located at
     https://colab.research.google.com/drive/1KDPuRc5bEIr5LOszh1sTBMugsFcnMW8H
 """
 
-!pip install pandas numpy tensorflow scikit-learn seaborn matplotlib wordcloud spacy transformers xgboost lightgbm catboost flask flask-basicauth shap lime bayesian-optimization
 
-!python -m spacy download en_core_web_sm
+
 
 # Advanced SMS Spam Detection with NLP, Visualization & Enhanced Ensemble Learning
 # ===============================================================================
