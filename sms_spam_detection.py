@@ -162,7 +162,7 @@ grid_search = GridSearchCV(RandomForestClassifier(), param_grid, cv=5, scoring='
 grid_search.fit(X_train_tfidf, y_train)
 rf_best = grid_search.best_estimator_
 
-pip install bayesian-optimization
+
 
 from bayes_opt import BayesianOptimization
 
